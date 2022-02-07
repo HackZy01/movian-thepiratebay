@@ -1,14 +1,14 @@
 {
-  "description": "The Pirate Bay plugin for Movian. Yarr! Download music, movies, games, software and much more. The Pirate Bay is the galaxy's most resilient BitTorrent site.",
-  "author": "Wain",
+  "description": "The Pirate Bay plugin for Movian. Yarr! Download music, movies, games, software and much more. The Pirate Bay is the galaxy's most resilient BitTorrent site. Finally working again in 2022",
+  "author": "Wain, fix by HackZy01",
   "homepage": "http://github.com/Wain-PC",
   "title": "ThePirateBay",
   "synopsis": "ThePirateBay",
-  "version": "0.2.1",
+  "version": "0.2.5",
   "file": "thepiratebay.js",
   "showtimeVersion": "4.9.389",
   "type": "ecmascript",
   "icon": "logo.png",
-  "id": "thepiratebay",
+  "id": "thepiratebayfix",
   "category": "video"
 }
