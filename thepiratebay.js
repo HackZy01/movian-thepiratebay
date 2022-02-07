@@ -1,7 +1,7 @@
 /**
  * ThePirateBay plugin for Showtime
  *
- *  Copyright (C) 2014-2016 Wain
+ *  Copyright (C) 2014-2016 Wain, 2022 fix by BitZy
  *
  *  This program is free software: you can redistribute it and/or modify
  *  it under the terms of the GNU General Public License as published by
@@ -29,7 +29,7 @@
     var html = require('showtime/html');
     settings.createInfo("info", config.logo, "Plugin developed by " + config.pluginInfo.author + ". \n");
     settings.createDivider('Settings');
-    settings.createString("domain", "Domain", "https://thepiratebay3.org", function (v) {
+    settings.createString("domain", "Domain", "https://thepiratebay3.to", function (v) {
         service.domain = v;
     });
     var nextUrlsRe = /<a href="([\s\w\/]*?)"><img[\s\S]{0,70}?alt="Next"\/?><\/a>/m;
@@ -61,15 +61,19 @@
                     name: 'Recent'
                 },
                 {
-                    url: '/tv',
+                    url: '/browse/205',
                     name: 'TV Shows'
                 },
                 {
-                    url: '/music',
+                    url: '/browse/201',
+                    name: 'Movies'
+                },
+                {
+                    url: '/browse/101',
                     name: 'Music'
                 },
                 {
-                    url: '/top',
+                    url: '/top/all',
                     name: 'Top 100'
                 }
             ],
