@@ -5,7 +5,7 @@
   "title": "ThePirateBay",
   "synopsis": "ThePirateBay",
   "version": "0.2.5",
-  "file": "thepiratebay.js",
+  "file": "plugin.js",
   "showtimeVersion": "4.9.389",
   "type": "ecmascript",
   "icon": "logo.png",
