@@ -1,5 +1,4 @@
-<img src="https://user-images.githubusercontent.com/77678316/208247098-77bede26-e428-48aa-9732-509c95605e19.png" width="195" height="230" />
-<p align="center"> 
+<img src="https://user-images.githubusercontent.com/77678316/208247098-77bede26-e428-48aa-9732-509c95605e19.png" width="210" height="245" /> <img src="https://user-images.githubusercontent.com/77678316/208266454-1daf4c87-fc41-46a8-95e5-31d9302290d0.png" height="245" />
 
 # ThePirateBay Plugin for Movian <p> <img align="center" src="https://img.shields.io/badge/Version-0.2.7-bd792a?style=style=flat"> <img align="center" src="https://img.shields.io/badge/Status-Working-bd792a?style=style=flat"> </p>
 
