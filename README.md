@@ -5,11 +5,16 @@
 > *ThePirateBay plugin for Movian/Showtime. Working in 2022-23*
 
 ## **Instalation**
-**PlayStation 3:** Put the zip file inside this directory: `dev_hdd0\game\HTSS00003\USRDIR\settings\installedplugins`
+**★ PlayStation 3:**
 
-**Android:** `Unknown`
+**Put the zip file inside this directory:** `dev_hdd0\game\HTSS00003\USRDIR\settings\installedplugins`
 
-**Linux:** `Unknown`
+**MultiMan:** `dev_hdd0\game\BLES80608\USRDIR\sys\st4_settings\installedplugins`
+
+
+> **★ Android:** `Unknown`
+
+> **★ Linux:** `Unknown`
 
 ## Platforms Tested:
 <p> <img align="center" src="https://img.shields.io/badge/PS3%20CECH2504B-4.84 DEX, 4.88 CEX, 4.89 CEX-brightgreen?style=style=flat"> </p>
