@@ -41,21 +41,12 @@
                     name: 'Recent uploads'
                 },
                 {
-                    url: '/top/200',
-                    name: 'Top 100 (Movies)'
-                },
-                {
-                    url: '/top/208',
-                    name: 'Top 100 (TV Shows)'
-                },
-                {
-                    url: '/top/101',
-                    name: 'Top 100 (Music)'
+                    url: '/top/all',
+                    name: 'Top 100'
                 },
                 {
                     url: '/browse/205',
                     name: 'TV Shows'
-
                 },
                 {
                     url: '/browse/201',
