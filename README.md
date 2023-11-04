@@ -6,7 +6,7 @@
 > *ThePirateBay plugin for Movian/Showtime. Working as of 2023 and beyond*
 
 ## Screenshots
-<img src=https://github.com/HackZy01/movian-thepiratebay/assets/77678316/99b90761-8ad2-4888-836e-0a5993e4df13 width="500"> <img src=https://github.com/HackZy01/movian-thepiratebay/assets/77678316/8f423eba-ef81-42a9-8245-defcea46cbc5 width="500">
+<img src=https://github.com/HackZy01/movian-thepiratebay/assets/77678316/99b90761-8ad2-4888-836e-0a5993e4df13 width="420"> <img src=https://github.com/HackZy01/movian-thepiratebay/assets/77678316/8f423eba-ef81-42a9-8245-defcea46cbc5 width="420">
 
 ## instalation
 Place the ZIP file in the directories adequate to your desired platform
